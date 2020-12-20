@@ -1,5 +1,4 @@
 const express = require('express');
-const { search } = require('.');
 const router = express.Router();
 const Author = require('../models/author');
 
